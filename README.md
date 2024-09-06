@@ -1,4 +1,4 @@
-### Hello world! My name is *gotdamnski*
+### Hello world! My name is *Luka*
 I am a self-thaught software developer.
 
 Right now i'm learing with The Odin Project.
