@@ -2,7 +2,7 @@
 hello everyone
 my name is gotdamnski
 i'm a self-learner
-### my fields of interest are: 
+### my fields of interest are:
     - math
     - computer science
     - cybersecurity
@@ -12,6 +12,5 @@ i'm a self-learner
     - artificial intelligence 
 
 ### currently working on:
-    - setting up my linux machine
-    - CS50x
-    - strengthening my foundation in algebra  
+    - CS50x Week1
+    - strengthening my foundation in algebra
