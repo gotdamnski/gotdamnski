@@ -12,5 +12,5 @@ i'm a self-learner
     - artificial intelligence 
 
 ### currently working on:
-    - CS50x Week1
+    - CS50x Week2
     - strengthening my foundation in algebra
