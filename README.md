@@ -12,12 +12,12 @@ I'm a self-learner aiming to understand systems - from code to markets - and gai
     - Manual Trading
     - Artificial Intelligence 
 
-### currently working on:
+### Currently working on:
     - CS50x Week2
     - Strengthening my foundation in algebra
     - English B1-B2
 
-### reading books
+### Reading books
 *The C Programming Language* by Brian W. Kernighan and Dennis M. Ritchie
 
 
