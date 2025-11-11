@@ -1,6 +1,6 @@
-# gotdamnski
+# Luka S.
 hello everyone
-my name is gotdamnski
+my name is Luka
 i'm a self-learner
 ### my fields of interest are:
     - math
