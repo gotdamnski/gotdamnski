@@ -13,7 +13,7 @@ I'm a self-learner aiming to understand systems - from code to markets - and gai
     - Artificial Intelligence 
 
 ### Currently working on:
-    - CS50x Week2
+    - CS50x Week3
     - Strengthening my foundation in algebra
     - English B1-B2
 
