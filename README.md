@@ -19,7 +19,3 @@ I'm a self-learner aiming to understand systems - from code to markets - and gai
 
 ### Reading books
 *The C Programming Language* by Brian W. Kernighan and Dennis M. Ritchie
-
-
-
-
