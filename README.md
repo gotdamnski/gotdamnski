@@ -18,4 +18,4 @@ I'm a self-learner aiming to understand systems - from code to markets - and gai
     - English B1-B2
 
 ### Reading books
-*The C Programming Language* by Brian W. Kernighan and Dennis M. Ritchie
+    - blank for the moment
