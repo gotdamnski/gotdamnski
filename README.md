@@ -6,16 +6,14 @@ I'm a self-learner aiming to understand systems - from code to markets - and gai
 ### My fields of interest are:
     - Math
     - Computer science
-    - Cybersecurity
     - Blockchain/Crypto/Web3
-    - Finance
-    - Manual Trading
+    - Finance and Econ
+    - Manual/Algo Trading
     - Artificial Intelligence 
 
 ### Currently working on:
-    - CS50x Week4
+    - CS50x Week5
+    - CS50p Week1
     - Strengthening my foundation in algebra
     - English B2
 
-### Reading books
-    - blank for the moment
