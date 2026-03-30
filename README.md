@@ -12,4 +12,4 @@ I'm a self-learner aiming to understand systems - from code to markets - and gai
     - Artificial Intelligence 
 
 ### Currently working on:
-    - MIT 6.00.2x pset1 
+    - CS50p pset1 
