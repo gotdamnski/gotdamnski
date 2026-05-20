@@ -6,10 +6,9 @@ I'm a self-learner aiming to understand systems - from code to markets - and gai
 ### My fields of interest are:
     - Math
     - Computer science
-    - Blockchain/Crypto/Web3
-    - Finance and Econ
-    - Manual/Algo Trading
-    - Artificial Intelligence 
+    - Finance/Econ
+    - Trading
 
 ### Currently working on:
-    - CS50p pset3
+    - CS50p pset4
+    - HS Math Review
